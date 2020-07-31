@@ -1,0 +1,121 @@
+,Address,City,State,Price,SqFt,Beds,Baths
+0,10310 Bilbrook Pl,Austin,TX,"$349,000","1,401 sqft",3bd,3ba
+1,1109 Lawson Ln,Austin,TX,"$579,000","1,259 sqft",3bd,2ba
+2,14412 Ballycastle Trl,Austin,TX,"$349,000","2,035 sqft",3bd,3ba
+3,10012 Wildflower Ln,Austin,TX,"$799,000","2,545 sqft",3bd,2ba
+4,12861 Hughes Park Rd,Austin,TX,"$5,995,000","13,127 sqft",6bd,7ba
+5,9016 Bird Brook Ln,Austin,TX,"$286,900","2,101 sqft",3bd,3ba
+6,5217 Bonneville Bnd,Austin,TX,"$375,000","2,682 sqft",6bd,4ba
+7,1205 Casey St,Austin,TX,"$535,000","1,400 sqft",3bd,3ba
+8,2401 Portofino Ridge Dr,Austin,TX,"$12,900,000","16,722 sqft",7bd,11ba
+9,2501 Jarratt Ave,Austin,TX,"$3,995,000","3,960 sqft",5bd,5ba
+10,8304 Wesal Dr,Austin,TX,"$249,900","1,058 sqft",3bd,2ba
+11,8408 Hickory Creek Dr,Austin,TX,"$1,785,000","5,577 sqft",5bd,6ba
+12,209 Starbright Dr,Austin,TX,"$467,000","2,172 sqft",5bd,4ba
+13,6906 Colony Park Dr,Austin,TX,"$264,000","1,362 sqft",4bd,3ba
+14,13021 Dessau Rd #479,Austin,TX,"$104,995","2,067 sqft",4bd,2ba
+15,12421 Evening Star Pass,Austin,TX,"$1,100,000","4,218 sqft",5bd,5ba
+16,6303 Mountain Shadows Dr,Austin,TX,"$339,000","1,473 sqft",3bd,2ba
+17,476 Naples Ln,Austin,TX,"$695,000","3,625 sqft",4bd,3ba
+18,9009 North Plz #102,Austin,TX,"$220,000","2,063 sqft",4bd,3ba
+19,3500 Black Granite Dr,Austin,TX,"$295,000","1,571 sqft",3bd,3ba
+20,8614 Tallwood Dr,Austin,TX,"$875,000","2,895 sqft",4bd,4ba
+21,5132 Mansfield View Ct,Austin,TX,"$594,900","2,811 sqft",4bd,3ba
+22,5901 Burrough Dr,Austin,TX,"$420,000","1,599 sqft",4bd,2ba
+23,2901 Inridge Dr,Austin,TX,"$395,000","1,790 sqft",4bd,3ba
+24,3704 Bonnie Rd,Austin,TX,"$2,595,000","3,769 sqft",5bd,6ba
+25,503 San Jose St,Austin,TX,"$185,000","1,300 sqft",3bd,3ba
+26,11212 Players Path,Austin,TX,"$359,900","2,040 sqft",4bd,3ba
+27,3003 Niagara Dr,Austin,TX,"$625,000","1,763 sqft",3bd,2ba
+28,2806 Brinwood Ave,Austin,TX,"$540,000",900 sqft,3bd,1ba
+29,2312 Aldford Dr,Austin,TX,"$320,000","1,119 sqft",3bd,2ba
+30,7402 Chisos Pass,Austin,TX,"$369,500","1,687 sqft",4bd,2ba
+31,9016 W Pointer Ln,Austin,TX,"$389,500","1,577 sqft",4bd,2ba
+32,7311 Bennett Ave #2,Austin,TX,"$379,500","1,099 sqft",2bd,3ba
+33,9804 Briar Ridge Dr,Austin,TX,"$295,000","1,148 sqft",3bd,2ba
+34,316 Naples Ln,Austin,TX,"$600,000","3,663 sqft",4bd,4ba
+35,The Jefferson Plan in Pioneer Hill,Austin,TX,"$298,990+","1,512 sqft",3bd,2ba
+36,12166 Metric Blvd #143,Austin,TX,"$142,500",559 sqft,1bd,1ba
+37,8703 Merion Cir,Austin,TX,"$185,000","1,226 sqft",2bd,2ba
+38,12808 Hughes St,Austin,TX,"$675,000","3,092 sqft",5bd,4ba
+39,6305 Craigwood Cir,Austin,TX,"$310,000","1,172 sqft",3bd,2ba
+40,1804 Arborside Dr,Austin,TX,"$275,000","1,324 sqft",3bd,3ba
+41,3200 Stratford Hills Ln,Austin,TX,"$8,995,000","7,178 sqft",5bd,8ba
+42,1011 Brodie St #16,Austin,TX,"$465,000","1,160 sqft",3bd,2ba
+43,1200 Eleanor St,Austin,TX,"$480,000","1,444 sqft",3bd,2ba
+44,9009 N Plaza Dr #135,Austin,TX,"$245,000","2,456 sqft",4bd,3ba
+45,10655 Marshitahs Way,Austin,TX,"$245,000","1,572 sqft",3bd,3ba
+46,10420 Garbacz Dr,Austin,TX,"$224,999","1,236 sqft",3bd,1ba
+47,12007 Bell Ave,Austin,TX,"$695,000","2,772 sqft",4bd,3ba
+48,2105 Island Wood Rd,Austin,TX,"$10,950,000","7,745 sqft",7bd,7ba
+49,8005 Davis Mountain Cv,Austin,TX,"$411,900","2,067 sqft",3bd,2ba
+50,3911 Bonnell Dr,Austin,TX,"$1,980,000","4,368 sqft",5bd,4ba
+51,8004 Two Coves Dr,Austin,TX,"$4,988,888","4,567 sqft",4bd,5ba
+52,4104 Shimmering Cv,Austin,TX,"$9,599,999","7,775 sqft",5bd,7ba
+53,504 Sunrise Cir,Austin,TX,"$1,950,000","2,892 sqft",4bd,4ba
+54,2101 Thames Cir,Austin,TX,"$589,000","2,149 sqft",4bd,2ba
+55,606 Augusta Ave #2,Austin,TX,"$629,900","1,008 sqft",2bd,2ba
+56,12709 Cedar St,Austin,TX,"$925,000","2,826 sqft",3bd,3ba
+57,7604 Callbram Ln,Austin,TX,"$459,000","2,496 sqft",4bd,3ba
+58,5306 Tortuga Trl,Austin,TX,"$1,100,000","2,602 sqft",3bd,3ba
+59,5214 Delores Ave,Austin,TX,"$580,000","1,778 sqft",3bd,3ba
+60,1713 Waterloo Trl #B,Austin,TX,"$395,000","1,084 sqft",2bd,2ba
+61,7106 Spurlock Dr,Austin,TX,"$1,875,000","3,800 sqft",5bd,4ba
+62,3608 Holt Dr,Austin,TX,"$399,900","1,501 sqft",3bd,2ba
+63,8574 Steamline Cir,Austin,TX,"$396,900","2,379 sqft",4bd,3ba
+64,1906 Anita Dr,Austin,TX,"$1,250,000","2,416 sqft",4bd,3ba
+65,6702 Bridge Hill Cv,Austin,TX,"$1,795,000","4,139 sqft",4bd,5ba
+66,9301 Tanager Way,Austin,TX,"$335,000","2,072 sqft",4bd,3ba
+67,6706 Elfland Dr,Austin,TX,"$7,800,000","9,891 sqft",6bd,9ba
+68,3409 Far View Dr,Austin,TX,"$1,495,000","4,655 sqft",4bd,4ba
+69,5704 Woodrow Ave,Austin,TX,"$475,000","1,100 sqft",3bd,2ba
+70,400 Emerald Ridge Dr,Austin,TX,"$870,000","3,818 sqft",4bd,4ba
+71,7233 Manchaca Rd #28,Austin,TX,"$329,900","1,504 sqft",3bd,2ba
+72,6706 Troll Hvn,Austin,TX,"$5,350,000","5,343 sqft",4bd,6ba
+73,5705 Parkwood Dr,Austin,TX,"$539,900","2,279 sqft",4bd,2ba
+74,12943 Dionysus Dr,Austin,TX,"$319,000","3,302 sqft",4bd,3ba
+75,2018 W Rundberg Ln #20A,Austin,TX,"$205,000","1,105 sqft",2bd,3ba
+76,4508 Duval Rd #702,Austin,TX,"$275,000","1,502 sqft",2bd,3ba
+77,12504 Black Mesa Cv,Austin,TX,"$1,275,000","4,898 sqft",5bd,4ba
+78,4800 Westgate Blvd #103,Austin,TX,"$250,000",925 sqft,2bd,2ba
+79,2410 E 11th St,Austin,TX,"$749,000","1,681 sqft",3bd,2ba
+80,6504 Ruxton Ln,Austin,TX,"$395,000","1,702 sqft",3bd,2ba
+81,11509 Kirkland Hill Path,Austin,TX,"$300,000","2,101 sqft",3bd,3ba
+82,Plan 2038 Modeled in Sundance Crossing,Austin,TX,"$254,995+","2,038 sqft",3bd,2.5ba
+83,10625 Wills Loop,Austin,TX,"$350,000","1,562 sqft",3bd,3ba
+84,12112 Shetland Chase,Austin,TX,"$595,000","2,120 sqft",3bd,2ba
+85,12414 Old Salt Trl,Austin,TX,"$549,000","3,837 sqft",5bd,4ba
+86,7609 Carver Ave #2,Austin,TX,"$249,000",697 sqft,2bd,1ba
+87,172 Encanto Pl,Austin,TX,"$819,995","3,068 sqft",4bd,3ba
+88,2803 Pearce Rd,Austin,TX,"$3,900,000","8,401 sqft",6bd,8ba
+89,10100 Silver Mountain Dr,Austin,TX,"$1,299,000","4,791 sqft",4bd,5ba
+90,15008 Ryman Rd,Austin,TX,"$288,990","1,322 sqft",3bd,2ba
+91,6506 Stonleigh Pl,Austin,TX,"$255,000","1,008 sqft",3bd,1ba
+92,2306 Fair Oaks Dr,Austin,TX,"$475,000","1,330 sqft",3bd,2ba
+93,2816 Ranch Rd #620,Austin,TX,"$5,999,000","4,294 sqft",5bd,10ba
+94,2213 Poquito St #115,Austin,TX,"$160,000",407 sqft,Studio,1ba
+95,1741 Spyglass Dr #204,Austin,TX,"$359,900","1,017 sqft",2bd,2ba
+96,7107 Colony Park Dr,Austin,TX,"$169,900",831 sqft,3bd,1ba
+97,5404 Maryanna Dr,Austin,TX,"$5,950,000","12,052 sqft",6bd,8ba
+98,4009 Greystone Dr,Austin,TX,"$919,990","2,250 sqft",4bd,2ba
+99,2707-2 Stratford Dr,Austin,TX,"$2,195,000","3,317 sqft",4bd,4ba
+100,10905 Roy Butler Dr,Austin,TX,"$669,000","4,212 sqft",4bd,4ba
+101,Amaretto Plan in Easton Park,Austin,TX,"$378,990+","2,558 sqft",3bd,2.5ba
+102,2011 Rabb Glen St,Austin,TX,"$1,950,000","3,209 sqft",4bd,4ba
+103,7849 Escala Dr,Austin,TX,"$8,500,000","10,396 sqft",5bd,7ba
+104,4306 Sarasota Dr,Austin,TX,"$350,000","2,077 sqft",3bd,3ba
+105,5915 Little Creek Trl,Austin,TX,"$217,500","1,275 sqft",2bd,2ba
+106,1003 Fiesta St #B,Austin,TX,"$449,000",924 sqft,2bd,2ba
+107,2202 Mission Hill Cir #102,Austin,TX,"$164,000",861 sqft,1bd,2ba
+108,2402 Vassal Dr,Austin,TX,"$439,000","1,898 sqft",4bd,2ba
+109,8237 Montoya Cir,Austin,TX,"$369,900","2,484 sqft",4bd,3ba
+110,2304 Holly St,Austin,TX,"$1,068,000","2,502 sqft",4bd,3ba
+111,1811 River Crossing Cir #C,Austin,TX,"$209,700","1,059 sqft",2bd,3ba
+112,1902 Alegria Rd #A,Austin,TX,"$600,000","1,602 sqft",2bd,3ba
+113,14425 Evergreen Cv,Austin,TX,"$750,000","2,828 sqft",4bd,3ba
+114,1128 Chicon St #100,Austin,TX,"$550,000","1,200 sqft",3bd,3ba
+115,7020 Halesboro Dr,Austin,TX,"$729,000","3,415 sqft",5bd,4ba
+116,2013 Riverview St,Austin,TX,"$950,000","2,068 sqft",3bd,3ba
+117,511 E Mary St,Austin,TX,"$1,195,000","2,276 sqft",3bd,2ba
+118,12716 Bismark Dr,Austin,TX,"$665,000","3,363 sqft",4bd,4ba
+119,4200 Waters Edge Cv,Austin,TX,"$7,498,000","7,369 sqft",6bd,9ba
