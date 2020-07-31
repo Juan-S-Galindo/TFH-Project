@@ -1,14 +1,16 @@
 ,Price (usd),Address,Rooms,Bathrooms,Area (sqrt),Link
 0,"$232,800","4704 Manchaca Rd, Austin, TX 78745",3 bds,2 ba,"1,657",https://www.zillow.com/homedetails/4704-Manchaca-Rd-Austin-TX-78745/58312923_zpid/
-1,"Est. $1,260,650","806 Bouldin Ave, Austin, TX 78704",4 bds,3 ba,"2,564",https://www.zillow.com/homedetails/806-Bouldin-Ave-Austin-TX-78704/29323776_zpid/
-2,"Est. $437,921","2013 Shiloh Dr, Austin, TX 78745",-- bds,-- ba,"2,140",https://www.zillow.com/homedetails/2013-Shiloh-Dr-Austin-TX-78745/63838528_zpid/
+1,"Est. $1,087,650","806 Bouldin Ave, Austin, TX 78704",4 bds,3 ba,"2,564",https://www.zillow.com/homedetails/806-Bouldin-Ave-Austin-TX-78704/29323776_zpid/
+2,"Est. $438,311","2013 Shiloh Dr, Austin, TX 78745",-- bds,-- ba,"2,140",https://www.zillow.com/homedetails/2013-Shiloh-Dr-Austin-TX-78745/63838528_zpid/
 3,$--,"4609 Duval St, Austin, TX 78751",1 bd,1 ba,513,https://www.zillow.com/homedetails/4609-Duval-St-Austin-TX-78751/29403582_zpid/
-4,"Est. $539,941","5210 Joe Sayers Ave, Austin, TX 78756",1 bd,1 ba,850,https://www.zillow.com/homedetails/5210-Joe-Sayers-Ave-Austin-TX-78756/29410601_zpid/
-5,"Est. $228,174","12412 Tay Ter, Austin, TX 78754",3 bds,2 ba,"1,203",https://www.zillow.com/homedetails/12412-Tay-Ter-Austin-TX-78754/70354536_zpid/
-6,"Est. $175,606","604 Montopolis Dr, Austin, TX 78741",1 bd,1 ba,864,https://www.zillow.com/homedetails/604-Montopolis-Dr-Austin-TX-78741/29461197_zpid/
-7,"Est. $464,064","5503 Ameswood Dr, Austin, TX 78723",3 bds,2 ba,"2,120",https://www.zillow.com/homedetails/5503-Ameswood-Dr-Austin-TX-78723/72091231_zpid/
-8,"Est. $564,375","5307 Harmon Ave, Austin, TX 78751",3 bds,2 ba,"1,551",https://www.zillow.com/homedetails/5307-Harmon-Ave-Austin-TX-78751/29406777_zpid/
-9,"Est. $435,082","702 Zennia St, Austin, TX 78751",-- bds,-- ba,874,https://www.zillow.com/homedetails/702-Zennia-St-Austin-TX-78751/29407818_zpid/
-10,"Est. $294,316","5005 Lott Ave, Austin, TX 78721",-- bds,1 ba,880,https://www.zillow.com/homedetails/5005-Lott-Ave-Austin-TX-78721/29388857_zpid/
-11,"Est. $297,794","1614 Cripple Creek Dr, Austin, TX 78758",4 bds,2 ba,"1,501",https://www.zillow.com/homedetails/1614-Cripple-Creek-Dr-Austin-TX-78758/29432873_zpid/
+4,"Est. $228,512","12412 Tay Ter, Austin, TX 78754",3 bds,2 ba,"1,203",https://www.zillow.com/homedetails/12412-Tay-Ter-Austin-TX-78754/70354536_zpid/
+5,"Est. $540,083","5210 Joe Sayers Ave, Austin, TX 78756",1 bd,1 ba,850,https://www.zillow.com/homedetails/5210-Joe-Sayers-Ave-Austin-TX-78756/29410601_zpid/
+6,"Est. $175,865","604 Montopolis Dr, Austin, TX 78741",1 bd,1 ba,864,https://www.zillow.com/homedetails/604-Montopolis-Dr-Austin-TX-78741/29461197_zpid/
+7,"Est. $463,516","5503 Ameswood Dr, Austin, TX 78723",3 bds,2 ba,"2,120",https://www.zillow.com/homedetails/5503-Ameswood-Dr-Austin-TX-78723/72091231_zpid/
+8,"Est. $565,378","5307 Harmon Ave, Austin, TX 78751",3 bds,2 ba,"1,551",https://www.zillow.com/homedetails/5307-Harmon-Ave-Austin-TX-78751/29406777_zpid/
+9,"Est. $434,780","702 Zennia St, Austin, TX 78751",-- bds,-- ba,874,https://www.zillow.com/homedetails/702-Zennia-St-Austin-TX-78751/29407818_zpid/
+10,"Est. $294,866","5005 Lott Ave, Austin, TX 78721",-- bds,1 ba,880,https://www.zillow.com/homedetails/5005-Lott-Ave-Austin-TX-78721/29388857_zpid/
+11,"Est. $298,328","1614 Cripple Creek Dr, Austin, TX 78758",4 bds,2 ba,"1,501",https://www.zillow.com/homedetails/1614-Cripple-Creek-Dr-Austin-TX-78758/29432873_zpid/
 12,$--,"5507 Hudson Holw, Austin, TX 78759",4 bds,2.5 ba,"2,488",https://www.zillow.com/homedetails/5507-Hudson-Holw-Austin-TX-78759/29363917_zpid/
+13,$--,"3604 Robbins Rd, Austin, TX 78730",1.03 acres lot,N/A,N/A,https://www.zillow.com/homedetails/3604-Robbins-Rd-Austin-TX-78730/144173932_zpid/
+14,"Est. $401,581","7407 W Gate Blvd, Austin, TX 78745",4 bds,2 ba,"1,598",https://www.zillow.com/homedetails/7407-W-Gate-Blvd-Austin-TX-78745/29494998_zpid/
