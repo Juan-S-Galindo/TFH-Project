@@ -10,7 +10,9 @@ We conducted research to find the most comprehensive listing of foreclosures ava
 
 ### Zillow
 
-One website had both a comprehensive set of foreclosures along with the ability to obtain these listings at no cost to us: [Zillow](https://www.zillow.com).  Zillow, however, put into a place a variety of steps to make sure that bots are not constantly crawling and scraping information from their website.  To ensure that we were able to obtain data from Zillow, the following measures were taking in our scraper:
+One website had both a comprehensive set of foreclosures along with the ability to obtain these listings at no cost to us: [Zillow](https://www.zillow.com).  
+
+Zillow, however, put into a place a variety of steps to make sure that bots are not constantly crawling and scraping information from their website.  To ensure that we were able to obtain data from Zillow, the following measures were taking in our scraper:
 
 * Usage of Selenium rather than Splinter to open the Chromedriver for scraping.
 
@@ -24,7 +26,8 @@ Final output of the scraper gave us the following list of information by listing
 
 * Price, Address, (Bed)Rooms, Bathrooms, Area (sqft), and a link to the listing.
 
-The scraper can be found at: 'Zillow Scrapper/zillowScrape.ipynb'
+The scraper can be found at: 'Zillow Scrapper/zillowScrape.ipynb'.
+
 The data output of scraper can be found at: 'Zillow Scrapper/zillowOutput.csv'
 
 ### Truilia
@@ -46,13 +49,14 @@ Once these cookies have been set, we set the market to be the same as the output
 * Price, City, Address, Bedrooms, Bathrooms, HouseSize
 
 The scraper can be found at: 'Trulia Scrapper/truliaScrape.ipynb'
+
 The data output of the scraper can be found at: 'Trulia Scrapper/truliaOutput.csv'
 
 ## Transformation
 
 ### Zillow
 
-Transofrmation of [zillowOutput.csv]('Zillow Scrapper/zillowOutput.csv') to a file that can be used in a database involved cleaning the data.  This process included the following:
+Transofrmation of zillowOutput.csv to a file that can be used in a database involved cleaning the data.  This process included the following:
 
 * Taking out the comments about estimated price in the price column.  This was switched over to a fixed price instead using the number in the respective value.
 
@@ -64,14 +68,15 @@ Transofrmation of [zillowOutput.csv]('Zillow Scrapper/zillowOutput.csv') to a fi
 
 * Finally, sorting the columns to be in the following order: Address, City, State, Zip, Price, SqFt, Beds, Baths, Link
 
-Once the data was cleaned, we created a new file in **csv format**
+Once the data was cleaned, we created a new file in **csv format**.
 
 The code for the transformation process can be found here: 'Zillow Scrapper/Transform_Zillow.ipynb'
+
 The data output can be found here: 'Zillow Scrapper/Foreclosed_homes.csv'
 
 ### Trulia
 
-Transformation of [truliaOutput.csv]('Trulia Scrapper/truliaOutput.csv') to a file that can be used in a database involved cleaning the data.  This process included the following:
+Transformation of truliaOutput.csv to a file that can be used in a database involved cleaning the data.  This process included the following:
 
 * Removing the redundancies in the bedroom and bathroom columns by removing 'bd' and 'ba' respectively.  
 
@@ -81,9 +86,10 @@ Transformation of [truliaOutput.csv]('Trulia Scrapper/truliaOutput.csv') to a fi
 
 * Finally, sorting the columns to be in the following order: Address, City, State, Zip, Price, SqFt, Beds, Baths
 
-Once the data was cleaned, we created a new file in **csv format**
+Once the data was cleaned, we created a new file in **csv format**.
 
 The code for the transformation process can be found here: 'Trulia Scrapper/Transform_Trulia.ipynb'
+
 The data output can be found here: 'Zillow Scrapper/Cleaned_Trulia.csv'
 
 ## Load
